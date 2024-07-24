@@ -16,8 +16,7 @@ Make sure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/steganography-app.git
-   cd steganography-app
+   git clone https://github.com/Belard4l/Image-steganography.git
    ```
 
 2. **Run the Application**
@@ -44,6 +43,9 @@ Make sure you have the following installed:
 - **Decrypt Text from Image**: The hidden text will be decrypted and displayed in the "Text" field.
 - **Encrypt Audio in Image**: The audio file will be encrypted and hidden in the selected image, and the encrypted image will be saved with a unique filename.
 - **Decrypt Audio from Image**: The hidden audio will be decrypted and saved as an audio file at the specified location.
+
+## Demo files
+The image and audio can be used for demonstration of the image steganography
 
 ## Note
 
